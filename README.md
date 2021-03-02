@@ -1,0 +1,2 @@
+# Pythonicos
+estudo mente binaria
